@@ -1,0 +1,11 @@
+C:\PtoExamenParcial\Sln\Cibertec.Models\bin\Debug\Examen.Models.dll
+C:\PtoExamenParcial\Sln\Cibertec.Models\bin\Debug\Examen.Models.pdb
+C:\PtoExamenParcial\Sln\Cibertec.Models\obj\Debug\Examen.Models.csproj.CoreCompileInputs.cache
+C:\PtoExamenParcial\Sln\Cibertec.Models\obj\Debug\Examen.Models.dll
+C:\PtoExamenParcial\Sln\Cibertec.Models\obj\Debug\Examen.Models.pdb
+C:\PtoExamenParcial\Sln\Examen.Models\bin\Debug\Examen.Models.dll
+C:\PtoExamenParcial\Sln\Examen.Models\bin\Debug\Examen.Models.pdb
+C:\PtoExamenParcial\Sln\Examen.Models\obj\Debug\Examen.Models.csprojAssemblyReference.cache
+C:\PtoExamenParcial\Sln\Examen.Models\obj\Debug\Examen.Models.csproj.CoreCompileInputs.cache
+C:\PtoExamenParcial\Sln\Examen.Models\obj\Debug\Examen.Models.dll
+C:\PtoExamenParcial\Sln\Examen.Models\obj\Debug\Examen.Models.pdb

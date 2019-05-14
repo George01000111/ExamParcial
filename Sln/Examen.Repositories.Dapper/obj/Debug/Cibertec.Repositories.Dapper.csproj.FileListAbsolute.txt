@@ -1,0 +1,17 @@
+C:\Clase 8\Examen\PtoExamenParcial\Sln\Cibertec.Repositories.Dapper\bin\Debug\Cibertec.Repositories.Dapper.dll
+C:\Clase 8\Examen\PtoExamenParcial\Sln\Cibertec.Repositories.Dapper\bin\Debug\Cibertec.Repositories.Dapper.pdb
+C:\Clase 8\Examen\PtoExamenParcial\Sln\Cibertec.Repositories.Dapper\bin\Debug\Cibertec.Models.dll
+C:\Clase 8\Examen\PtoExamenParcial\Sln\Cibertec.Repositories.Dapper\bin\Debug\Cibertec.Repositories.dll
+C:\Clase 8\Examen\PtoExamenParcial\Sln\Cibertec.Repositories.Dapper\bin\Debug\Cibertec.UnitOfWork.dll
+C:\Clase 8\Examen\PtoExamenParcial\Sln\Cibertec.Repositories.Dapper\bin\Debug\Dapper.Contrib.dll
+C:\Clase 8\Examen\PtoExamenParcial\Sln\Cibertec.Repositories.Dapper\bin\Debug\Dapper.dll
+C:\Clase 8\Examen\PtoExamenParcial\Sln\Cibertec.Repositories.Dapper\bin\Debug\Cibertec.Models.pdb
+C:\Clase 8\Examen\PtoExamenParcial\Sln\Cibertec.Repositories.Dapper\bin\Debug\Cibertec.Repositories.pdb
+C:\Clase 8\Examen\PtoExamenParcial\Sln\Cibertec.Repositories.Dapper\bin\Debug\Cibertec.UnitOfWork.pdb
+C:\Clase 8\Examen\PtoExamenParcial\Sln\Cibertec.Repositories.Dapper\bin\Debug\Dapper.xml
+C:\Clase 8\Examen\PtoExamenParcial\Sln\Cibertec.Repositories.Dapper\bin\Debug\Dapper.Contrib.xml
+C:\Clase 8\Examen\PtoExamenParcial\Sln\Cibertec.Repositories.Dapper\obj\Debug\Cibertec.Repositories.Dapper.csprojAssemblyReference.cache
+C:\Clase 8\Examen\PtoExamenParcial\Sln\Cibertec.Repositories.Dapper\obj\Debug\Cibertec.Repositories.Dapper.csproj.CoreCompileInputs.cache
+C:\Clase 8\Examen\PtoExamenParcial\Sln\Cibertec.Repositories.Dapper\obj\Debug\Cibertec.Repositories.Dapper.csproj.CopyComplete
+C:\Clase 8\Examen\PtoExamenParcial\Sln\Cibertec.Repositories.Dapper\obj\Debug\Cibertec.Repositories.Dapper.dll
+C:\Clase 8\Examen\PtoExamenParcial\Sln\Cibertec.Repositories.Dapper\obj\Debug\Cibertec.Repositories.Dapper.pdb

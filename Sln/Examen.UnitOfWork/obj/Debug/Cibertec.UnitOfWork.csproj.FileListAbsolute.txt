@@ -1,0 +1,11 @@
+C:\Clase 8\Examen\PtoExamenParcial\Sln\Cibertec.UnitOfWork\bin\Debug\Cibertec.UnitOfWork.dll
+C:\Clase 8\Examen\PtoExamenParcial\Sln\Cibertec.UnitOfWork\bin\Debug\Cibertec.UnitOfWork.pdb
+C:\Clase 8\Examen\PtoExamenParcial\Sln\Cibertec.UnitOfWork\bin\Debug\Cibertec.Repositories.dll
+C:\Clase 8\Examen\PtoExamenParcial\Sln\Cibertec.UnitOfWork\bin\Debug\Cibertec.Models.dll
+C:\Clase 8\Examen\PtoExamenParcial\Sln\Cibertec.UnitOfWork\bin\Debug\Cibertec.Repositories.pdb
+C:\Clase 8\Examen\PtoExamenParcial\Sln\Cibertec.UnitOfWork\bin\Debug\Cibertec.Models.pdb
+C:\Clase 8\Examen\PtoExamenParcial\Sln\Cibertec.UnitOfWork\obj\Debug\Cibertec.UnitOfWork.csprojAssemblyReference.cache
+C:\Clase 8\Examen\PtoExamenParcial\Sln\Cibertec.UnitOfWork\obj\Debug\Cibertec.UnitOfWork.csproj.CoreCompileInputs.cache
+C:\Clase 8\Examen\PtoExamenParcial\Sln\Cibertec.UnitOfWork\obj\Debug\Cibertec.UnitOfWork.csproj.CopyComplete
+C:\Clase 8\Examen\PtoExamenParcial\Sln\Cibertec.UnitOfWork\obj\Debug\Cibertec.UnitOfWork.dll
+C:\Clase 8\Examen\PtoExamenParcial\Sln\Cibertec.UnitOfWork\obj\Debug\Cibertec.UnitOfWork.pdb

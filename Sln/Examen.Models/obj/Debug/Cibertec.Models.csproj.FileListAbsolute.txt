@@ -1,0 +1,5 @@
+C:\Clase 8\Examen\PtoExamenParcial\Sln\Cibertec.Models\bin\Debug\Cibertec.Models.dll
+C:\Clase 8\Examen\PtoExamenParcial\Sln\Cibertec.Models\bin\Debug\Cibertec.Models.pdb
+C:\Clase 8\Examen\PtoExamenParcial\Sln\Cibertec.Models\obj\Debug\Cibertec.Models.csproj.CoreCompileInputs.cache
+C:\Clase 8\Examen\PtoExamenParcial\Sln\Cibertec.Models\obj\Debug\Cibertec.Models.dll
+C:\Clase 8\Examen\PtoExamenParcial\Sln\Cibertec.Models\obj\Debug\Cibertec.Models.pdb

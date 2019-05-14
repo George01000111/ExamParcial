@@ -1,0 +1,66 @@
+﻿@model Examen.Mvc.ViewModels.EventosComentarioViewModel
+
+@{
+    ViewBag.Title = "ComentarioByEventos";
+}
+
+<h2>ComentarioByEventos</h2>
+
+<div>
+    <h4>EventosComentarioViewModel</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            IdEvento
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EventosTitulo)
+        </dd>
+
+    </dl>
+</div>
+
+
+<p>  
+  <a href="@Url.Action("Create", "Comentario", new { IdEvento =  @Html.DisplayFor(model => model.EventosTitulo)})">Create</a>
+</p>
+
+
+<table class="table">
+    <tr>
+        <th>ID</th>
+        <th>IdEvento</th>
+        <th>Contenido</th>
+        <th>Fecha</th>
+        <th>Autor</th>
+    </tr>
+    @foreach (var item in Model.Comentario)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdEvento)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Contenido)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Fecha)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Autor)
+            </td>
+
+            <td>
+                <a href="@Url.Action("Delete", "Comentario", new { id = item.Id })">Delete</a>
+
+            </td>
+        </tr>
+
+    }
+</table>
+
+@*<li><a href="@Url.Action("Create", "Comentario", new { IdEvento = model. })">Create</a></li>*@
